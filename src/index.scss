@@ -63,29 +63,29 @@
 /* Clarity - Begin Part 2 */
 
 //Reboot
-@import "./utils/reboot.clarity"; // depends on variables.clarity, mixins.clarity, color.clarity, helpers.clarity
+//@import "./utils/reboot.clarity"; // depends on variables.clarity, mixins.clarity, color.clarity, helpers.clarity
 
 //@import "./media/media.clarity"; //Deleted
 //@import "./utils/utilities.clarity"; // deleted
 
 //Icons & Images
-@import "./images/icons.clarity"; // depends on variables.clarity
-@import "./images/images.clarity"; // depends on variables.clarity, mixins.clarity, icons.clarity
+//@import "./images/icons.clarity"; // depends on variables.clarity
+//@import "./images/images.clarity"; // depends on variables.clarity, mixins.clarity, icons.clarity
 
 
 //Typography
 //depends on colors.clarity, color.clarity, variables.clarity, utilities.clarity
-@import "./typography/typography.clarity";
+//@import "./typography/typography.clarity";
 
 //Buttons
-@import "./buttons/buttons.clarity"; // depends on variables.clarity, mixins.clarity, color.clarity
-@import "./button-group/button-group.clarity"; // depends on variables.clarity, mixins.clarity
-@import "./buttons/toggles.clarity"; // depends on variables.clarity, mixins.clarity, color.clarity, helpers.clarity
-@import "./close/close.clarity"; //depends on variables.clarity, mixins.clarity
+//@import "./buttons/buttons.clarity"; // depends on variables.clarity, mixins.clarity, color.clarity
+//@import "./button-group/button-group.clarity"; // depends on variables.clarity, mixins.clarity
+//@import "./buttons/toggles.clarity"; // depends on variables.clarity, mixins.clarity, color.clarity, helpers.clarity
+//@import "./close/close.clarity"; //depends on variables.clarity, mixins.clarity
 
 //Alerts
 //depends on variables.clarity, mixins.clarity, color.clarity, icons.clarity, buttons.clarity
-@import "./alert/alert.clarity";
+//@import "./alert/alert.clarity";
 
 
 //List Group
@@ -93,95 +93,95 @@
 
 //Cards
 //depends on variables.clarity, mixins.clarity, color.clarity, helpers.clarity, list-group.clarity, buttons.clarity
-@import "./card/card.clarity";
+//@import "./card/card.clarity";
 
 //Code
-@import "./code/code.clarity"; // depends on variables.clarity, mixins.clarity, helpers.clarity, code.scss
+//@import "./code/code.clarity"; // depends on variables.clarity, mixins.clarity, helpers.clarity, code.scss
 
 //@import "./custom-forms/custom-forms.clarity"; // deleted
 
 //Dropdowns
 //depends on variables.clarity, mixins.clarity, color.clarity, helpers.clarity, layers.clarity
-@import "./dropdown/dropdown.clarity";
+//@import "./dropdown/dropdown.clarity";
 
 //Labels & Badges
 // depends on variables.clarity, mixins.clarity, color.clarity, helpers.clarity, typography.clarity
-@import "./labels/labels.clarity";
+//@import "./labels/labels.clarity";
 
 //Grid
 //depends on variables.clarity, mixins.clarity
-@import "./grid/grid.clarity";
+//@import "./grid/grid.clarity";
 
 
 
 //Lists
 //depends on variables.clarity, mixins.clarity, helpers.clarity, typograph.clarity
-@import "./lists/lists.clarity";
+//@import "./lists/lists.clarity";
 
 //Login
 //depends on variables.clarity, mixins.clarity, helpers.clarity, color.clarity, icons.clarity
-@import "./login/login.clarity";
+//@import "./login/login.clarity";
 
 //Layout
 //depends on variables.clarity, mixins.clarity, helpers.clarity, color.clarity, layers.clarity
-@import "./layout/layout.clarity";
+//@import "./layout/layout.clarity";
 
 //Modal
 //depends on variables.clarity, mixins.clarity, helpers.clarity, color.clarity, layers.clarity
-@import "./modal/modal.clarity";
+//@import "./modal/modal.clarity";
 
 //Nav
 //@import "./navbar/navbar.clarity"; //deleted
-@import "./nav/header.clarity"; // depends on variables.clarity, mixins.clarity, helpers.clarity, color.clarity, layers.clarity
-@import "./nav/nav.clarity"; // depends on variables.clarity, mixins.clarity, helpers.clarity, color.clarity, layers.clarity
-@import "./nav/subnav.clarity"; // depends on variables.clarity, mixins.clarity, helpers.clarity, color.clarity, layers.clarity
-@import "./nav/sidenav.clarity"; // depends on variables.clarity, mixins.clarity, helpers.clarity, color.clarity
-@import "./nav/responsive-nav.clarity"; // depends on variables.clarity, mixins.clarity, helpers.clarity, color.clarity, layers.clarity
+//@import "./nav/header.clarity"; // depends on variables.clarity, mixins.clarity, helpers.clarity, color.clarity, layers.clarity
+//@import "./nav/nav.clarity"; // depends on variables.clarity, mixins.clarity, helpers.clarity, color.clarity, layers.clarity
+//@import "./nav/subnav.clarity"; // depends on variables.clarity, mixins.clarity, helpers.clarity, color.clarity, layers.clarity
+//@import "./nav/sidenav.clarity"; // depends on variables.clarity, mixins.clarity, helpers.clarity, color.clarity
+//@import "./nav/responsive-nav.clarity"; // depends on variables.clarity, mixins.clarity, helpers.clarity, color.clarity, layers.clarity
 
 //Progress Bars
 //depends on variables.clarity, helpers.clarity, color.clarity, cards.clarity
-@import "./progress-bars/progress-bars.clarity";
+//@import "./progress-bars/progress-bars.clarity";
 
 
 
 
 //Spinners
 //depends on variables.clarity, mixins.clarity, color.clarity, helpers.clarity, icons.clarity
-@import "./spinners/spinner.clarity";
+//@import "./spinners/spinner.clarity";
 
 //Tables
 //depends on variables.clarity, mixins.clarity, helpers.clarity, typography.clarity
-@import "./tables/tables.clarity";
+//@import "./tables/tables.clarity";
 
 //Tooltips
 // depends on variables.clarity, mixins.clarity, color.clarity, helpers.clarity, layers.clarity
-@import "./tooltips/tooltips.clarity";
+//@import "./tooltips/tooltips.clarity";
 
 //Forms
-@import "./forms/utils/form-variables.clarity";
-@import "./forms/utils/mixins.clarity";
-@import "./forms/inputs.clarity"; // depends on variables.clarity, mixins.clarity, color.clarity, helpers.clarity
-@import "./forms/checkbox.clarity"; // depends on variables.clarity, mixins.clarity, color.clarity, helpers.clarity
-@import "./forms/radio.clarity"; // depends on variables.clarity, mixins.clarity, color.clarity, helpers.clarity
-@import "./forms/select.clarity"; // depends on variables.clarity, mixins.clarity, color.clarity, helpers.clarity, layers.clarity, icons.clarity, images.clarity
-@import "./forms/forms.clarity"; // depends on variables.clarity, mixins.clarity, color.clarity, helpers.clarity
+//@import "./forms/utils/form-variables.clarity";
+//@import "./forms/utils/mixins.clarity";
+//@import "./forms/inputs.clarity"; // depends on variables.clarity, mixins.clarity, color.clarity, helpers.clarity
+//@import "./forms/checkbox.clarity"; // depends on variables.clarity, mixins.clarity, color.clarity, helpers.clarity
+//@import "./forms/radio.clarity"; // depends on variables.clarity, mixins.clarity, color.clarity, helpers.clarity
+//@import "./forms/select.clarity"; // depends on variables.clarity, mixins.clarity, color.clarity, helpers.clarity, layers.clarity, icons.clarity, images.clarity
+//@import "./forms/forms.clarity"; // depends on variables.clarity, mixins.clarity, color.clarity, helpers.clarity
 
 
 //Stack View
 //depends on variables.clarity, mixins.clarity, color.clarity, helpers.clarity, forms.clarity
-@import "./stack-view/stack-view.clarity";
+//@import "./stack-view/stack-view.clarity";
 
 //Tree View
 //depends on variables.clarity, mixins.clarity, helpers.clarity, forms.clarity
-@import "./tree-view/tree-view.clarity";
+//@import "./tree-view/tree-view.clarity";
 
 
 //Animations
 // no dependencies on other clarity scss
-@import "./animations/animations.clarity";
+//@import "./animations/animations.clarity";
 
 //Tabs
-@import "./tabs/tabs.clarity"; // no dependencies on other clarity scss
+//@import "./tabs/tabs.clarity"; // no dependencies on other clarity scss
 
 //Wizards
 // depends on variables.clarity, mixins.clarity, helpers.clarity, color.clarity, layers.clarity

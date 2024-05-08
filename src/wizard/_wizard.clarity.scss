@@ -1,8 +1,8 @@
 // Copyright (c) 2016 VMware, Inc. All Rights Reserved.
 // This software is released under MIT license.
 // The full license information can be found in LICENSE in the root directory of this project.
-
-// Backgrounds
+///// wizard_start
+// Backgrounds_wizard_start
 $clr-wizard-main-bgcolor: clr-getColor(1);
 $clr-wizard-sidenav-bgcolor: clr-getColor(2);
 $clr-wizard-default-space: $clr_baselineRem_1;
@@ -314,3 +314,4 @@ $clr-wizard-shadow-size: 4px;
         }
     }
 }
+///wizard_finish

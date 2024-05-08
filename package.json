@@ -16,25 +16,12 @@
   "license": "ISC",
   "dependencies": {
     "autoprefixer": "^9.8.8",
-    "cssnano": "^3.9.1",
-    "rimraf": "^2.7.1",
     "bootstrap": "4.0.0-alpha.5",
     "rollup-plugin-commonjs": "^8.0.2",
     "rollup": "^0.62.0",
-    "postcss-simple-vars": "^3.0.0",
     "postcss": "^7.0.39",
-    "rollup-plugin-license": "^0.6.0",
-    "postcss-cli": "^6.1.3",
-    "postcss-extend": "^1.0.5",
-    "postcss-import": "^11.1.0",
-    "rollup-plugin-terser": "^1.0.1",
-    "rollup-plugin-sass": "^0.5.3",
-    "postcss-load-config": "^2.1.2",
-    "postcss-mixins": "^6.2.3",
-    "postcss-nested": "^1.0.0",
-    "postcss-scss": "^2.1.1",
     "rollup-plugin-node-resolve": "^3.0.0",
-    "rollup-plugin-postcss": "^0.2.0",
-    "postcss-node-sass": "^2.1.8"
+    "rollup-plugin-license": "^0.6.0",
+    "rollup-plugin-sass": "^0.5.3"
   }
 }
